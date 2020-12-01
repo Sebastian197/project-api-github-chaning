@@ -1,0 +1,20 @@
+module.exports = {
+    login: "npm-udemy-course",
+    id: 48382541,
+    node_id: "MDQ6VXNlcjQ4MzgyNTQx",
+    avatar_url: "https://avatars1.githubusercontent.com/u/48382541?v=4",
+    gravatar_id: "",
+    url: "https://api.github.com/users/npm-udemy-course",
+    html_url: "https://github.com/npm-udemy-course",
+    followers_url: "https://api.github.com/users/npm-udemy-course/followers",
+    following_url: "https://api.github.com/users/npm-udemy-course/following{/other_user}",
+    gists_url: "https://api.github.com/users/npm-udemy-course/gists{/gist_id}",
+    starred_url: "https://api.github.com/users/npm-udemy-course/starred{/owner}{/repo}",
+    subscriptions_url: "https://api.github.com/users/npm-udemy-course/subscriptions",
+    organizations_url: "https://api.github.com/users/npm-udemy-course/orgs",
+    repos_url: "https://api.github.com/users/npm-udemy-course/repos",
+    events_url: "https://api.github.com/users/npm-udemy-course/events{/privacy}",
+    received_events_url: "https://api.github.com/users/npm-udemy-course/received_events",
+    type: "User",
+    site_admin: false
+}

@@ -1,0 +1,32 @@
+{
+  "name": "pj-api-github-chaning-js",
+  "version": "1.0.0",
+  "description": "Acceso a la Api de Github de un usuario",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sebastian197/project-api-github-chaning.git"
+  },
+  "keywords": [
+    "nodejs",
+    "api",
+    "github"
+  ],
+  "author": "Sebastián Moreno Saavedra <morenosebastian117@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Sebastian197/project-api-github-chaning/issues"
+  },
+  "homepage": "https://github.com/Sebastian197/project-api-github-chaning#readme",
+  "dependencies": {
+    "axios": "^0.21.0"
+  },
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^8.2.1",
+    "nock": "^13.0.5"
+  }
+}
